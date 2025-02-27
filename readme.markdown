@@ -18,7 +18,7 @@ Eigen (https://eigen.tuxfamily.org)
 
 ## Download data
 
-https://github.com/GREAT-WHU/GREAT-MSF/tree/main/sample_data
+download https://github.com/GREAT-WHU/GREAT-MSF/tree/main/sample_data
 
 ## How to use
 
