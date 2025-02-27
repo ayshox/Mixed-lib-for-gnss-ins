@@ -16,7 +16,7 @@ Eigen (https://eigen.tuxfamily.org) Copyright (C) 2008-2011 Gael Guennebaud
 
 ## Download data
 
-https://github.com/GREAT-WHU/GREAT-MSF
+https://github.com/GREAT-WHU/GREAT-MSF/tree/main/sample_data
 
 ## How to use
 
