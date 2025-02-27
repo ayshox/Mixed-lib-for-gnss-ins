@@ -1,5 +1,6 @@
 # Mixed lib for gnss/ins by C++ and Python
 
+based on https://github.com/GREAT-WHU/GREAT-MSF
 
 使用G-Nut库(http://www.pecny.cz) Copyright (C) 2011-2016 GOP - Geodetic Observatory Pecny, RIGTC.
 
