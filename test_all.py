@@ -26,7 +26,7 @@ if __name__ == "__main__":
     great_log = pygreat.GRTLog(log_type, log_level, log_name)
     my_logger = great_log.spdlog()
     isBase = False
-    if len(gset.list_base()):
+    if gset.list_base():
         isBase = True
     sites = gset.recs()
     sample = int(gset.sampling())
@@ -55,7 +55,7 @@ if __name__ == "__main__":
             site_base = gset.list_base()[i]
             site = gset.list_rover()[i]
             if (
-                (gobs.beg_obs(site_base) == LAST_TIME)
+                (gobs.beg_obs(site_base,0) == LAST_TIME)
                 or (gobs.end_obs(site_base) == LAST_TIME)
                 or (site_base == "")
                 or (gobs.isSite(site_base) == False)
