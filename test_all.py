@@ -56,7 +56,7 @@ if __name__ == "__main__":
             site = gset.list_rover()[i]
             if (
                 (gobs.beg_obs(site_base,0) == LAST_TIME)
-                or (gobs.end_obs(site_base) == LAST_TIME)
+                or (gobs.end_obs(site_base) == FIRST_TIME)
                 or (site_base == "")
                 or (gobs.isSite(site_base) == False)
             ):
@@ -65,7 +65,7 @@ if __name__ == "__main__":
                 continue
         if (
             (gobs.beg_obs(site, 0) == LAST_TIME)
-            or (gobs.end_obs(site) == LAST_TIME)
+            or (gobs.end_obs(site) == FIRST_TIME)
             or (site == "")
             or (gobs.isSite(site) == False)
         ):
