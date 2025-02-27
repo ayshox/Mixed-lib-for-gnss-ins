@@ -1,20 +1,20 @@
 # Mixed lib for gnss/ins by C++ and Python
 
-Based on https://github.com/GREAT-WHU/GREAT-MSF
+Based on (https://github.com/GREAT-WHU/GREAT-MSF)
 
-pybind11 https://pybind11.readthedocs.io/en/stable/index.html
+pybind11 (https://pybind11.readthedocs.io/en/stable/index.html)
 
-G-Nut (http://www.pecny.cz) Copyright (C) 2011-2016 GOP - Geodetic Observatory Pecny, RIGTC.
+G-Nut (http://www.pecny.cz)
 
-pugixml (http://pugixml.org) Copyright (C) 2006-2014 Arseny Kapoulkine.
+pugixml (http://pugixml.org)
 
-Newmat (http://www.robertnz.net/nm_intro.htm) Copyright (C) 2008: R B Davies.
+Newmat (http://www.robertnz.net/nm_intro.htm)
 
-spdlog (https://github.com/gabime/spdlog) Copyright(C) 2015-present, Gabi Melman & spdlog contributors.
+spdlog (https://github.com/gabime/spdlog)
 
-GLFW (https://www.glfw.org) Copyright (C) 2002-2006 Marcus Geelnard, Copyright (C) 2006-2019 Camilla Löwy
+GLFW (https://www.glfw.org)
 
-Eigen (https://eigen.tuxfamily.org) Copyright (C) 2008-2011 Gael Guennebaud
+Eigen (https://eigen.tuxfamily.org)
 
 ## Download data
 
